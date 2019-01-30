@@ -1,4 +1,7 @@
 # selenium-webdriver
+#### Output Video:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oHVw_BXiBsU/0.jpg)](https://www.youtube.com/watch?v=oHVw_BXiBsU)
+
 This is a sample POC for selenium WedDriver.
 I used Page Object model & PageFactory design patterns wherever needed.
 
@@ -14,7 +17,3 @@ String baseUrl = "http://automationpractice.com/index.php";
 String userName = "sridurga.alekhya@gmail.com";
 String password = "*******";
 ```
-
-
-## Output Video:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oHVw_BXiBsU/0.jpg)](https://www.youtube.com/watch?v=oHVw_BXiBsU)
